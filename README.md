@@ -8,9 +8,9 @@ This project aims to develop a robust system for detecting fake news and analyzi
 
 # Fake News Detection:
 
-a) Utilize NLP techniques to preprocess and analyze textual data.
-b) Implement a BERT-based model for effective and accurate fake news detection.
-c) Train the model on a labeled dataset containing both fake and real news articles.
+1) Utilize NLP techniques to preprocess and analyze textual data.
+2) Implement a BERT-based model for effective and accurate fake news detection.
+3) Train the model on a labeled dataset containing both fake and real news articles.
 
  # Sentiment Analysis:
 
